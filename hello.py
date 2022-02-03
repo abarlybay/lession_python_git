@@ -13,6 +13,7 @@
 #a = a + 1
 #print(a)
 
+# Function VAT
 def get_vat(payment):
 	try:
 		payment = float(payment)
